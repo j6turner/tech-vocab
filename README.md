@@ -1,5 +1,5 @@
 # Flash Cards
-This app built allows user to study flash cards.  It is currently
+This app allows user to study flash cards.  It is currently
 under construction.
 
 ## Setup Instructions:
@@ -7,9 +7,7 @@ Clone repository.
 ```
 python -m SimpleHTTPServer
 ```
-Open index.html
-
-[View site here](http://alexkaufman06.github.io/tech-vocab/index.html).
+To view the site, open index.html in a Web browser or simply [click here](http://alexkaufman06.github.io/tech-vocab/index.html).
 
 ### Bug Reports:
 ```
@@ -21,6 +19,7 @@ Alex Kaufman
 Julie Turner  
 Arsi (Sylwia M. Bialczak)  
 Ben Pritchard  
-Amy Michelle Johnson  
+Amy Michelle Johnson
+
 #### License
 MIT
